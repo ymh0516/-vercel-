@@ -30,10 +30,10 @@ let fruitQTan = false;
 let fruitSlowDown = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'ad_link';
+let adLink = 'https://ae04.alicdn.com/kf/H802d2f030b82489cabad3a7eca7493dep.jpg';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '网页名';
+document.getElementsByTagName("title")[0].innerText = '合成笛笛';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
